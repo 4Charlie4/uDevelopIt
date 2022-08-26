@@ -1,5 +1,4 @@
 const express = require("express");
-const { createTestScheduler } = require("jest");
 const mysql = require("mysql2");
 const inputCheck = require("./utils/inputCheck");
 
